@@ -1,5 +1,4 @@
-# ELEVATE_LABS-_TASK 2
-**Task :** Analyse a Phishing Email Sample. </br>
+# Analyse a Phishing Email Sample. </br>
 **Key Concepts :** Phishing, email spoofing, header analysis, social engineering, threat detection. </br>
 
 ## 🎯 Objective

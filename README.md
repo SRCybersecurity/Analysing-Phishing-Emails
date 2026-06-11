@@ -9,6 +9,23 @@ MX Lookup </br>
 VirusTotal
 
 ## 📌 Steps
+Investigated a phishing alert in a simulated SOC environment.
+
+**Indicators identified:** </br>
+Suspicious sender domain </br>
+URL redirect chain </br>
+Credential harvesting page
+
+**Analysis process:**</br>
+Email header review </br>
+Domain reputation check </br>
+IOC extraction  </br>
+Risk assessment </br>
+
+**Outcome:** </br>
+Determined the alert was a credential phishing attempt targeting users
+
+## 📌 WriteUps
 
 ### 1.Obtain a sample phishing email (many free samples online).
 Email Body Summary:
